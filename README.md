@@ -1,4 +1,4 @@
-# Gmaify Kanban
+# Gamify Kanban
 -----
 ## Introduce
 
@@ -46,7 +46,7 @@ Trello, Jira some kinds of a jobs distrubute and track board.
 #### DevOp
   * Owner: 社畜
   * Tools: 
-    * Doccker
+    * Docker
     * Drone
     * GitHub
 
