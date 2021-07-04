@@ -38,7 +38,7 @@ Trello, Jira some kinds of a jobs distrubute and track board.
   * Language: TypeSript
   
 #### Backend deveelop
-  * Owner: 社畜
+  * Owner: 社畜、哈奇
   * Frameworks: Node.js Express
   * Language: TypeSript
   * Database: MongoDB
@@ -46,7 +46,7 @@ Trello, Jira some kinds of a jobs distrubute and track board.
   * Lint: ESLint
   
 #### DevOp
-  * Owner: 社畜
+  * Owner: 社畜、哈奇
   * Tools: 
     * Nginx
     * Docker
