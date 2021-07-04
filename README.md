@@ -42,10 +42,13 @@ Trello, Jira some kinds of a jobs distrubute and track board.
   * Frameworks: Node.js Express
   * Language: TypeSript
   * Database: MongoDB
+  * Testing: Jest
+  * Lint: ESLint
   
 #### DevOp
   * Owner: 社畜
   * Tools: 
+    * Nginx
     * Docker
     * Drone
     * GitHub
