@@ -61,4 +61,23 @@ Trello, Jira some kinds of a jobs distrubute and track board.
 
 
 --- 
+
+## How to collaboration
+
+Please join out [slack]((https://join.slack.com/t/slack-qus1741/shared_invite/zt-sh8cu8fq-OUcB6YI1GibB7KxayX3QFw)) and tell us what jobs you want to do. Than we will help you to assign jobs.
+And devop will help you to build environment.
+
+#### Git Rules
+1. Pull project form github
+2. Create a branch, use your name as branch name
+3. Edit your code and **write test code**
+4. Before you push, plz fetch and rebase master
+5. We will review and accept or reject
+6. Write a readable commit message
+#### Clickup Boards
+1. Do one task for once
+2. Check if any review jask is reject or not
+3. Any issue or discuss write down at task comment
+
+---
 ## [Join Slack Community](https://join.slack.com/t/slack-qus1741/shared_invite/zt-sh8cu8fq-OUcB6YI1GibB7KxayX3QFw)
