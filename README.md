@@ -33,8 +33,8 @@ Trello, Jira some kinds of a jobs distrubute and track board.
 * Tools:
   
 #### Frontend develop
-  * Owner:
-  * Frameworks:
+  * Owner: Hello, Alpha
+  * Frameworks: React
   * Language: TypeSript
   
 #### Backend deveelop
