@@ -28,12 +28,12 @@ Trello, Jira some kinds of a jobs distrubute and track board.
 ## Jobs
 
 #### UI/UX Design
-* Owner:
+* Owner: 兔在飛、阿法
 
 * Tools:
   
 #### Frontend develop
-  * Owner: Hello, Alpha
+  * Owner: Hello, Alpha, 鉛筆, Bunny
   * Frameworks: React
   * Language: TypeSript
   
